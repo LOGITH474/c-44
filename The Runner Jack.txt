@@ -1,0 +1,25 @@
+The Runner Jack
+
+story: Jack is pc of the game, he collects coins, diamonds, golds etc.. the obstacles try to reduce his life. jack will be given five lives,the agenda of the game is to collect coin without dying. This is an infinite running game, the game ends when jack loses all his five lives.
+
+goal: To collect maximum number of coins and not to get killed by the obstacles.
+
+PC & PC: PC- The Runner Jack
+         NPC- coins,golds,diamonds,obstacles
+
+adaptability: the number of obstacles get increased according to the score.OBSTACLES: rocks, barricades.Life of the player gets reduced if the player touches the obstacles.
+
+rules: If the player touches the coin, the coin bar score increases and if the player touches the obstacles,life gets reduced by one. 
+the player could use up arrow key to escape from the obstacles.
+
+
+feedback: the score of the run pops up. when the player runs out of life.
+
+chance V skill: the obstacles are randomly assigned. controlls of the player.
+
+balance: the speed of the player increases, when he covers a lot of distance.
+
+
+
+
+
